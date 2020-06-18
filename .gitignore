@@ -1,0 +1,8 @@
+# app config
+app/config/config.local.neon
+
+#vendor
+vendor/*
+
+#netBeans IDE
+nbproject/*
